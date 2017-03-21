@@ -7,7 +7,7 @@ benefit in using a controller model. It allows for clean, well defined
 abstractions above and beyond what the net/http handler interface can alone
 provide.
 
-## Handler Dependencies
+<a id="test"><h3>test markdown</h3></a>
 
 In this example we will experiment with building our own controller
 implementation using some standard features in Go. But first, lets start with
