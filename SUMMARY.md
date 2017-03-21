@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [Go Makes Things Simple](go_makes_things_simple/README.md)
+* [Go Makes Things Simple](go_makes_things_simple/README.md#test)
 * [The net/http package](http_basics/README.md)
 * [Creating a Basic Web App](creating_a_basic_web_app/README.md)
 * [Deployment](deployment/README.md)
